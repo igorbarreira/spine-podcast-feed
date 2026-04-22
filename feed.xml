@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://igorbarreira.github.io/spine-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Spine Weekly — Igor Magro</title>
+    <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
+    <language>pt-BR</language>
+    <copyright>© 2026 Igor Magro</copyright>
+    <description>Resumo semanal dos principais artigos de cirurgia de coluna, gerado automaticamente toda quarta-feira. Uso pessoal.</description>
+    <itunes:author>Igor Magro</itunes:author>
+    <itunes:summary>Podcast semanal personalizado com os artigos mais relevantes de cirurgia de coluna da semana, em formato de conversa entre dois apresentadores.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Igor Magro</itunes:name>
+      <itunes:email>REPLACE_WITH_YOUR_EMAIL@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <itunes:image href="https://igorbarreira.github.io/spine-podcast-feed/cover.png"/>
+    <image>
+      <url>https://igorbarreira.github.io/spine-podcast-feed/cover.png</url>
+      <title>Spine Weekly — Igor Magro</title>
+      <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
+    </image>
+    <!-- EPISODES_START -->
+    <!-- EPISODES_END -->
+  </channel>
+</rss>
