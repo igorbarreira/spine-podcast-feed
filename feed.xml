@@ -5,7 +5,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <atom:link href="https://igorbarreira.github.io/spine-podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <title>Spine Weekly — Igor Magro</title>
+    <title>Spine Weekly</title>
     <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
     <language>pt-BR</language>
     <copyright>© 2026 Igor Magro</copyright>
@@ -23,7 +23,7 @@
     <itunes:image href="https://igorbarreira.github.io/spine-podcast-feed/cover-v2.png"/>
     <image>
       <url>https://igorbarreira.github.io/spine-podcast-feed/cover-v2.png</url>
-      <title>Spine Weekly — Igor Magro</title>
+      <title>Spine Weekly</title>
       <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
     </image>
     <!-- EPISODES_START -->
@@ -69,31 +69,6 @@ Gerado automaticamente a partir de Orthopedics This Week e PubMed da semana de 1
       <guid isPermaLink="false">2026-04-22-ep2</guid>
       <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-04-22-ep2.mp3" length="42170541" type="audio/mpeg"/>
       <itunes:duration>43:55</itunes:duration>
-      <itunes:author>Igor Magro</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-
-    <item>
-      <title>Ep. 1 — TOPS vs TLIF, octogenários, GNRI, CDR e mais 5 (22/04/2026)</title>
-      <description><![CDATA[Episódio piloto. Nove artigos da semana em cirurgia de coluna, em formato conversa com dois apresentadores.
-
-1. TOPS vs TLIF em espondilo grau I — ensaio FDA IDE, 249 pts, sucesso composto 85% vs 64% (Coric et al.).
-2. Doença do segmento adjacente 5 anos pós-TLIF — análise segmentar, cranial muito mais afetado (Akiyama et al., Spine).
-3. Fusão lombar posterior em octogenários — 1100 pts Rothman, ODI e VAS melhoram igual aos mais jovens; idade só prevê LOS e alta (Dalton et al., Spine).
-4. GNRI e deformidade em idosos — 2186 pts NSQIP, desnutrição prediz desfechos melhor que idade e frailty (Shahbandi et al.).
-5. Opioide e gabapentinoide pós-ACDF — FinSpine registry, 70% param pós-op; só 2,2% novos dependentes (Klimko et al.).
-6. CDR vs ACDF retorno ao trabalho — metanálise de 16 RCTs, CDR ~10 dias antes, equivalente em 2a (Perez-Albela et al.).
-7. SRS-22 vs PROMIS em AIS — até 40% das meninas em sofrimento passam despercebidas (Catanzano et al.).
-8. Eventos neurológicos após osteotomia 3 colunas — 553 pts, idade e tempo cirúrgico como preditores (Kim et al., Spine).
-9. Realidade mista em parafuso pedicular — primeira série clínica, 96,5% acurácia GRC A/B (Reyes Medina et al., Brain Spine).
-10. Colonização por S. aureus pré-op — 3311 pts, associação com infecção superficial e corrente sanguínea (Joshi et al., JNSS).
-
-Gerado automaticamente a partir dos newsletters do Orthopedics This Week e do PubMed da última semana.]]></description>
-      <pubDate>Wed, 22 Apr 2026 20:00:00 -0300</pubDate>
-      <guid isPermaLink="false">2026-04-22-ep01</guid>
-      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-04-22-ep01.mp3" length="27408045" type="audio/mpeg"/>
-      <itunes:duration>28:33</itunes:duration>
       <itunes:author>Igor Magro</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
