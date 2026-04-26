@@ -20,9 +20,9 @@
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Medicine"/>
     </itunes:category>
-    <itunes:image href="https://igorbarreira.github.io/spine-podcast-feed/cover.png"/>
+    <itunes:image href="https://igorbarreira.github.io/spine-podcast-feed/cover-v2.png"/>
     <image>
-      <url>https://igorbarreira.github.io/spine-podcast-feed/cover.png</url>
+      <url>https://igorbarreira.github.io/spine-podcast-feed/cover-v2.png</url>
       <title>Spine Weekly — Igor Magro</title>
       <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
     </image>
