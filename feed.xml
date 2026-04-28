@@ -8,12 +8,12 @@
     <title>Spine Weekly</title>
     <link>https://igorbarreira.github.io/spine-podcast-feed/</link>
     <language>pt-BR</language>
-    <copyright>© 2026 Igor Magro</copyright>
-    <description>Resumo semanal dos principais artigos de cirurgia de coluna, gerado automaticamente toda quarta-feira. Uso pessoal.</description>
-    <itunes:author>Igor Magro</itunes:author>
-    <itunes:summary>Podcast semanal personalizado com os artigos mais relevantes de cirurgia de coluna da semana, em formato de conversa entre dois apresentadores.</itunes:summary>
+    <copyright>© 2026 Igor Barreira</copyright>
+    <description>Resumo semanal dos principais artigos de cirurgia de coluna, com curadoria do Instituto de Patologia da Coluna. Publicado toda quarta-feira.</description>
+    <itunes:author>Igor Barreira</itunes:author>
+    <itunes:summary>Podcast semanal com curadoria do Instituto de Patologia da Coluna sobre os artigos mais relevantes de cirurgia de coluna, em formato de conversa entre dois apresentadores.</itunes:summary>
     <itunes:owner>
-      <itunes:name>Igor Magro</itunes:name>
+      <itunes:name>Igor Barreira</itunes:name>
       <itunes:email>igorbarreira1@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
@@ -41,12 +41,12 @@
 8. RCT de neuroestimulação periférica proximal para PSPS: 63% vs 16% resposta a 1 mês, sustentada em 36 meses (Billet et al., Pain Physician).
 9. Fixação lombopélvica em fratura sacral patológica metastática: VAS 7,5→0,4, opioides -62%, ambulação em 86% (Hirase et al., J Neurosurg Spine).
 
-Gerado automaticamente a partir de PubMed da semana de 19/04/2026 a 26/04/2026.]]></description>
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 19/04/2026 a 26/04/2026).]]></description>
       <pubDate>Sun, 26 Apr 2026 18:46:22 -0300</pubDate>
       <guid isPermaLink="false">2026-04-26-ep3</guid>
       <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-04-26-ep3.mp3" length="43508397" type="audio/mpeg"/>
       <itunes:duration>45:19</itunes:duration>
-      <itunes:author>Igor Magro</itunes:author>
+      <itunes:author>Igor Barreira</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -64,12 +64,12 @@ Gerado automaticamente a partir de PubMed da semana de 19/04/2026 a 26/04/2026.]
 7. Desalinhamento sagital residual acelera degeneração de quadril após fusão longa (Laidet et al., Spine Deform).
 8. Esteroide epidural intraoperatório em discectomia endoscópica — RCT negativo (Aguiar et al.).
 
-Gerado automaticamente a partir de Orthopedics This Week e PubMed da semana de 15/04/2026 a 22/04/2026.]]></description>
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 15/04/2026 a 22/04/2026).]]></description>
       <pubDate>Wed, 22 Apr 2026 20:33:20 -0300</pubDate>
       <guid isPermaLink="false">2026-04-22-ep2</guid>
       <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-04-22-ep2.mp3" length="42170541" type="audio/mpeg"/>
       <itunes:duration>43:55</itunes:duration>
-      <itunes:author>Igor Magro</itunes:author>
+      <itunes:author>Igor Barreira</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
