@@ -28,6 +28,31 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Ep. 12 — Carga Depressiva e Desfechos no ACDF, Sarcopenia na Deformidade do Adulto por EOS, Robótica e Navegação vs Infecção na Fusão Lombar, Descompressão Intradural na Lesão Medular (13/07/2026)</title>
+      <description><![CDATA[Resumo: 9 artigos da semana em cirurgia de coluna.
+
+1. Carga depressiva alta e desfechos após ACDF — coorte retrospectiva de 311 pacientes (ACDF eletivo primário, 2014–2020) agrupados pela média do componente mental do SF-12 (pré-op + 3 meses) ≤45 vs >45: com desfechos cirúrgicos objetivos comparáveis, a alta carga depressiva previu de forma independente falha em atingir melhora clinicamente significativa em função física (PCS) e recuperação neurológica (mJOA) ao longo de 1 ano, mesmo com maior ganho em saúde mental — opera-se a coluna, mas trata-se a pessoa (Herczeg et al., Spine, 2026).
+2. Espessura muscular da coxa em radiografia de corpo inteiro (EOS) como marcador de sarcopenia na deformidade do adulto — 540 pacientes de 24 centros: 11% classificados como sarcopênicos por espessura da coxa/quadríceps abaixo de limiares por sexo, e esse grupo era mais frágil (menor preensão, Timed Up and Go mais lento, idade epigenética maior) e compensava com mais flexão de joelho em vez de retroversão pélvica — um marcador de fragilidade sem radiação ou custo extra (Nassar et al., Spine, 2026).
+3. Navegação e robótica na fusão lombar posterolateral (PLF) — coorte nacional PearlDiver com mais de 305.000 casos (2016–2023): robótica associada a +53% de chance de infecção superficial de ferida (sem interbody) e mais que o dobro de infecção de órgão/espaço (com interbody), navegação com mais infecção e deiscência, e custo em 90 dias cerca de US$ 10–14 mil maior — com a ressalva de viés de seleção (casos mais complexos e comórbidos) e curva de aprendizado (Ng et al., The Spine Journal, 2026).
+4. Augmentação vertebral na fratura osteoporótica (OVCF) — network meta-analysis de 28 RCTs (3.049 pacientes) comparando mais de dez variações técnicas contra o tratamento conservador: as técnicas percutâneas superaram o manejo conservador no alívio precoce da dor (cifoplastia deflectável e vertebroplastia em duplo plano no topo aos ≤14 dias), com diferenças modestas entre variações de acesso e trajetória (Musmar et al., Neurosurgical Review, 2026).
+5. Descompressão intradural (durotomia com ou sem duroplastia) na lesão medular aguda traumática — revisão sistemática e meta-análise de 8 estudos observacionais: associada a melhor recuperação motora (SMD 0,82; IC 95% 0,62–1,02) e taxa de melhora neurológica de ~82%, com efeito significativo nas lesões incompletas/mistas mas não nas completas, e sem aumento significativo de complicações liquóricas — sinal promissor que ainda carece de ensaios randomizados (Tykocki et al., Spinal Cord, 2026).
+6. Reposição de testosterona (TRT) e fusão lombar posterior — análise pareada por escore de propensão (TriNetX, 3.380 por grupo): TRT associada a menos readmissão (2,07% vs 3,05%) e menos idas ao pronto-socorro (2,66% vs 4,26%) em 90 dias, sem diferença em TVP/TEP/infecção, porém com mais cirurgia de revisão em 2 anos (8,05% vs 6,15%; RR 1,31) — recuperação inicial melhor, mas sinal de mais revisão a longo prazo (Miller et al., Global Spine Journal, 2026).
+7. Falha da instrumentação distal após artrodese posterior na escoliose idiopática do adolescente (AIS) — 302 pacientes com construtos só de parafusos pediculares e ≥2 anos de seguimento: falha em 11,6% (mais comum o "axial rod slip", 9,3%), metade detectada em até 3 meses e 64% no lado convexo, associada a maior curva lombar pré-operatória, vértebra distal instrumentada mais baixa (L3/L4) e maior angulação do parafuso — um alerta técnico sobre seleção do nível distal e do vetor do parafuso (Song et al., Spine Deformity, 2026).
+8. Benchmarking de ferramentas de predição de risco em cirurgia de coluna — registro nacional ACS-NSQIP com 362.145 pacientes (2017–2022) comparando cinco métricas: o ACS Surgical Risk Calculator teve a melhor acurácia (mortalidade C-statistic 0,908; complicações maiores 0,749), mas a albumina sérica isolada ficou em segundo (mortalidade 0,820) — um único valor laboratorial rivalizando com índices de fragilidade e nutrição (Farid et al., Journal of Neurosurgery: Spine, 2026).
+9. Descompressão indireta na estenose lombar de nível único — revisão sistemática e meta-análise de OLIF, ALIF e espaçador interespinhoso standalone (8 estudos observacionais, 465 pacientes): OLIF com melhora de ODI de 34,2 pontos em 12 meses, ALIF de 37,4 pontos em 24 meses e maior correção de lordose (6,2°), enquanto os espaçadores interespinhosos melhoravam no início mas deterioravam ao longo do tempo — sem ensaios randomizados comparando as três estratégias, evidência de baixa certeza (Anwar et al., Journal of Orthopaedic Surgery and Research, 2026).
+
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de cirurgia de coluna (semana de 06/07/2026 a 13/07/2026).
+]]></description>
+      <pubDate>Mon, 13 Jul 2026 19:12:11 -0300</pubDate>
+      <guid isPermaLink="false">2026-07-13-ep12</guid>
+      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-07-13-ep12.mp3" length="39505197" type="audio/mpeg"/>
+      <itunes:duration>41:09</itunes:duration>
+      <itunes:author>Igor Barreira</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Ep. 11 — Artroplastia de Faceta Lombar vs Artrodese (TOPS), Disco Cervical vs ACDF a Longo Prazo, Endoscópica vs Microdiscectomia, Rods Pré-Moldados e PJK (05/07/2026)</title>
       <description><![CDATA[Resumo: 9 artigos da semana em cirurgia de coluna.
 
