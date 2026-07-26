@@ -28,6 +28,31 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Ep. 14 — Reoperação no TLIF Tubular, Osteodistrofia Renal na Fusão Cervical, As Duas Lordoses Lombares, Laminoplastia vs Laminectomia com Fusão (26/07/2026)</title>
+      <description><![CDATA[Resumo: 10 artigos da semana em cirurgia de coluna.
+
+1. Reoperação no TLIF tubular — migração do cage domina, e osteoporose, diabetes e cirurgia prévia predizem o retorno à sala (Lerch et al., Global Spine Journal, 2026).
+2. Osteodistrofia renal na artrodese cervical — dobro de delirium, mais transfusão e internação de nove versus cinco dias (Zhang et al., Global Spine Journal, 2026).
+3. As duas lordoses funcionais da coluna lombar — arco distal pélvico e arco proximal adaptativo; com PI maior, a lordose migra distalmente (Gadoin et al., Spine, 2026).
+4. Laminoplastia versus laminectomia com fusão em 4.412 pacientes — metade do risco de reoperação e de doença do segmento adjacente cirúrgica (Yacob et al., Spine, 2026).
+5. Corpectomia versus não corpectomia na via cervical anterior — mais morbidade perioperatória, atenuada ao ajustar para extensão cirúrgica e OPLL (Hirai et al., Spine, 2026).
+6. Endoscopia biportal versus microscopia — custo-utilidade acoplada a dois randomizados: empate clínico e econômico, com 94,9% de probabilidade de custo-efetividade (Park et al., The Spine Journal, 2026).
+7. Uma em cada cinco espondilólises passa batido na ressonância, com quatro meses de atraso no tratamento (Kodali et al., Spine Deformity, 2026).
+8. História natural da espondilólise do adolescente em 10,5 anos — pouco escorregamento, mas degeneração discal e dor progredindo em metade (Liu et al., Spine, 2026).
+9. Tabagismo e infecção de sítio cirúrgico após artrodese — RR 1,28 no geral e 1,76 na cirurgia degenerativa, em 26 estudos (Dang et al., Irish Journal of Medical Science, 2026).
+10. Vertebroplastia unilateral assistida por robô na doença de Kümmell — randomizado com melhor correção e 62% menos fluoroscopia (Guo et al., Journal of Robotic Surgery, 2026).
+
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 20/07/2026 a 26/07/2026).]]></description>
+      <pubDate>Sun, 26 Jul 2026 19:54:15 -0300</pubDate>
+      <guid isPermaLink="false">2026-07-26-ep14</guid>
+      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-07-26-ep14.mp3" length="44577453" type="audio/mpeg"/>
+      <itunes:duration>46:26</itunes:duration>
+      <itunes:author>Igor Barreira</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Ep. 13 — Multífido e Hematoma no TLIF, ACDF de 3 vs 4 Níveis, Artroplastia Cervical em 5 Anos, Osteotomia de 3 Colunas e Risco Neurológico (20/07/2026)</title>
       <description><![CDATA[Resumo: 9 artigos da semana em cirurgia de coluna.
 
@@ -297,28 +322,6 @@ Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais rece
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
-    <item>
-      <title>Ep. 2 — TOPS vs TLIF, Fusão em Idosos, Nutrição em Deformidade (22/04/2026)</title>
-      <description><![CDATA[Resumo: 8 artigos da semana em cirurgia de coluna.
-
-1. TOPS System vs TLIF em espondilolistese grau I — superioridade no sucesso clínico composto (85% vs 64%, p=0,01) (Coric et al.).
-2. Fusão lombar estratificada por faixa etária — octogenários melhoram tanto quanto cinquentões (Dalton et al., Rothman).
-3. Uso de opioides e gabapentinoides após ACDF — 70% cessam medicação; preditores de persistência definidos (Klimko et al., FinSpine).
-4. Saúde mental em escoliose do adolescente — até 40% dos pacientes subótimos pelo PROMIS passam no SRS-22 (Catanzano et al.).
-5. GNRI como preditor de complicações em deformidade idosa — supera idade e mFI-5 em ROC (Shahbandi et al.).
-6. Eventos neurológicos adversos em osteotomia de três colunas — 23% vs 15%, mas LEMS equivalente em 1 ano (Kim et al., ISSG).
-7. Desalinhamento sagital residual acelera degeneração de quadril após fusão longa (Laidet et al., Spine Deform).
-8. Esteroide epidural intraoperatório em discectomia endoscópica — RCT negativo (Aguiar et al.).
-
-Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 15/04/2026 a 22/04/2026).]]></description>
-      <pubDate>Wed, 22 Apr 2026 20:33:20 -0300</pubDate>
-      <guid isPermaLink="false">2026-04-22-ep2</guid>
-      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-04-22-ep2.mp3" length="42170541" type="audio/mpeg"/>
-      <itunes:duration>43:55</itunes:duration>
-      <itunes:author>Igor Barreira</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
 
     <!-- EPISODES_END -->
   </channel>
