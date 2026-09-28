@@ -28,6 +28,31 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Ep. 23 — MILD sem descompressão na ressonância, três vias empatadas na mielopatia multinível, cetamina que não poupa opioide, metade dos tethering em revisão (28/09/2026)</title>
+      <description><![CDATA[Resumo: 10 artigos da semana em cirurgia de coluna.
+
+1. MILD vs descompressão aberta — o procedimento percutâneo não produziu nenhuma reversão do sinal de sedimentação nem alteração anatômica na ressonância, enquanto a cirurgia aberta reverteu em 100% e removeu >90% do ligamento amarelo, em coorte multicêntrica de 182 pacientes em 7 centros (Jones et al., The Spine Journal 2026).
+2. Custo-efetividade na estenose pura — descompressão tubular MIS foi estratégia dominante sobre a laminectomia aberta, com 5,95 vs 5,91 QALYs e economia de US$ 4.167 por paciente em 10 anos, custo-efetiva em 81% das simulações (Phadke et al., Global Spine Journal 2026).
+3. ACDF vs PCDF vs laminoplastia — recuperação neurológica equivalente na mielopatia multinível (JOA sem diferença); ACDF com menos dor axial (OR 0,21) e menos paralisia de C5 (OR 0,27), porém mais disfagia (OR 5,88), em metanálise de 12 estudos e 1.129 pacientes (Jasti et al., Spine 2026).
+4. Mielopatia cervical degenerativa leve — recomendações condicionais do AO Spine: gravidade pelo mJOA (leve 15–17), cirurgia nos casos com dor e NDI altos, e aconselhamento explícito de que o déficit sensitivo em membro superior frequentemente persiste (Neal et al., Global Spine Journal 2026).
+5. Cetamina intraoperatória — nenhum efeito poupador de opioide a longo prazo após cirurgia lombar; associou-se a MAIS prescrição em 48 h (RR 1,23) e 6 semanas (RR 1,14), sem diferença em 3, 6 e 12 meses, em 53.639 pacientes pareados (Desverreaux et al., Anesthesia & Analgesia 2026).
+6. Aspirina perioperatória — manter AAS em dose baixa na fusão anterior ao psoas não aumentou tempo cirúrgico, sangramento (244 vs 278 mL), hemoglobina no D1, transfusão nem hematoma retroperitoneal, em 86 pares pareados (Kim et al., Spine 2026).
+7. Índice nutricional e delirium — PNI abaixo de 47,8 triplicou o risco de delirium pós-operatório no idoso (OR ajustada 3,57; IC 1,80–7,09), com incidência de 10,1% vs 2,9%, em 711 pacientes acima de 65 anos (Oh et al., Clinical Spine Surgery 2026).
+8. Tethering vertebral — 49% de revisão cirúrgica em 41 pacientes acompanhados por 2 a 8 anos; Sanders <3 (OR 9,2) e magnitude da curva (OR 2,7 por 10°) predisseram revisão, e a correção imediata para <35° protegeu (Kress et al., Spine Deformity 2026).
+9. IA na classificação de Lenke — sistema totalmente automatizado mediu Cobb com erro de 2,4° (ICC 0,991) e acertou o rótulo Lenke completo em 81,6% dos casos, reduzindo a revisão de 8,2 para 1,5 minuto por caso (Xu et al., Global Spine Journal 2026).
+10. Impacto das complicações no cirurgião — 96% relataram sofrimento psicológico após complicação grave, com exaustão moderada a grave em 44%, despersonalização em 40% e uso de substâncias em 34%, em levantamento com 50 cirurgiões de coluna (Kanna et al., The Spine Journal 2026).
+
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 21/09/2026 a 28/09/2026).]]></description>
+      <pubDate>Mon, 28 Sep 2026 13:18:17 -0300</pubDate>
+      <guid isPermaLink="false">2026-09-28-ep23</guid>
+      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-09-28-ep23.mp3" length="41576877" type="audio/mpeg"/>
+      <itunes:duration>43:18</itunes:duration>
+      <itunes:author>Igor Barreira</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Ep. 22 — Analgesia pós-TLIF sob randomização, diabetes e pseudartrose na endoscopia, o retorno do BMP, fraturas sacrais e mortalidade (20/09/2026)</title>
       <description><![CDATA[Resumo: 10 artigos da semana em cirurgia de coluna.
 
@@ -304,29 +329,6 @@ Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais rece
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
-    <item>
-      <title>Ep. 11 — Artroplastia de Faceta Lombar vs Artrodese (TOPS), Disco Cervical vs ACDF a Longo Prazo, Endoscópica vs Microdiscectomia, Rods Pré-Moldados e PJK (05/07/2026)</title>
-      <description><![CDATA[Resumo: 9 artigos da semana em cirurgia de coluna.
-
-1. Artroplastia de faceta lombar vs artrodese na espondilolistese grau I — RCT multicêntrico TOPS (321 pacientes, 37 centros), resultados de 3 anos: sucesso clínico composto 76,0% vs 56,8% (p=0,0038) e menos reoperação/infiltração (14,0% vs 25,3%), sem diferença em ODI ou dor na perna (VanHorn et al., Neurosurgical Focus).
-2. Artroplastia de disco cervical vs ACDF e reoperação a longo prazo — meta-análise level-matched só de estudos IDE da FDA e RCTs internacionais (16 estudos, ~7 anos): CDA reduz reoperação por segmento adjacente (1 nível OR 0,45; 2 níveis OR 0,51) e por qualquer causa (Sulman et al., Neurosurgical Focus).
-3. Discectomia endoscópica total (FED) vs microdiscectomia (MSD) — meta-análise de 17 RCTs (2.238 pacientes): dor na perna equivalente, FED com menos sangramento, retorno ao trabalho ~3 semanas antes e menos complicações de ferida (infecção RR 0,30), ao custo de mais radiação (Patel et al., Spine).
-4. Rods pré-moldados específicos vs moldados à mão para prevenir PJK na deformidade do adulto — coorte pareada (160 pacientes): PJK 12,5% vs 20% (redução relativa ~38%, mas p=0,199); tendência de benefício nos casos de maior risco; valor real no planejamento pré-operatório (Fields et al., J Neurosurg Spine).
-5. Estimulação óssea por campo eletromagnético pulsado (Bone-Stim) na fratura de odontoide tipo II — coorte multicêntrica pareada (321 pacientes, mediana 80 anos): consolidação 68,4% vs 13% (p<0,01), sem aumento de complicações; piloto que pede validação prospectiva (Enriquez-Marulanda et al., Spine).
-6. Cannabis e cirurgia de revisão após artrodese lombar — revisão sistemática e meta-análise (5 estudos, 9.983 pacientes): risco de revisão mais que dobrado (OR 2,27), com heterogeneidade alta (I²=95%); fator modificável a aconselhar no pré-op (von Riegen et al., Clinical Spine Surgery).
-7. Tumores malignos da bainha do nervo periférico (MPNST) espinhais/paraespinhais — revisão sistemática de 230 casos: sobrevida global mediana ~15 meses; a extensão da ressecção (GTR: OS HR 0,37) pesa mais que o status de margem — buscar ressecção macroscópica total mesmo sem margem negativa (Toivonen & Denisov, Global Spine Journal).
-8. Artrodese sacroilíaca e risco de artroplastia de quadril — coorte nacional pareada (4.383 por grupo): SI fusion associada a maior chance de THA subsequente (OR 2,18), sugerindo aceleração da OA de quadril por biomecânica adjacente (Issani et al., Global Spine Journal).
-9. Tendências nacionais de via e custo na mielopatia cervical degenerativa — 100.390 internações (2016–2022): via anterior isolada caiu de 76% para 57%, com posterior e combinada custando 31% e 82% a mais; alerta de value-based care (Karthikeyan et al., Clinical Spine Surgery).
-
-Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 28/06/2026 a 05/07/2026).]]></description>
-      <pubDate>Sun, 05 Jul 2026 12:34:30 -0300</pubDate>
-      <guid isPermaLink="false">2026-07-05-ep11</guid>
-      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-07-05-ep11.mp3" length="41972013" type="audio/mpeg"/>
-      <itunes:duration>43:43</itunes:duration>
-      <itunes:author>Igor Barreira</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
 
 
 
