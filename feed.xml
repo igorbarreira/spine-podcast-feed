@@ -28,6 +28,31 @@
     </image>
     <!-- EPISODES_START -->
     <item>
+      <title>Ep. 25 — Rastreamento escolar e o limiar cirúrgico da escoliose, pregabalina que não previne dor crônica, dexametasona e infecção na deformidade, ALIF e o dobro de tromboembolismo (15/11/2026)</title>
+      <description><![CDATA[Resumo: 11 artigos da semana em cirurgia de coluna.
+
+1. Rastreamento escolar de escoliose — 30 anos em Hong Kong (30.818 adolescentes rastreados): risco relativo de atingir o limiar cirúrgico caiu de 1,00 para 0,18; rastreamento associado a HR 0,29, mas 29% já chegavam acima do limiar (Po et al., The Spine Journal 2026).
+2. Pregabalina perioperatória e dor persistente após cirurgia lombar — metanálise de 5 ECRs (335 pacientes): sem diferença na dor em 3 meses (SMD 0,03); ganho funcional abaixo do MCID, certeza baixa a muito baixa (Correia et al., Pain Medicine 2026).
+3. Dexametasona após cirurgia de deformidade do adulto — 42.472 pares pareados (TriNetX): mais infecção de ferida, sepse, delirium e insuficiência respiratória até 1 ano (Price et al., Neurospine 2026).
+4. Tromboembolismo venoso — ALIF vs TLIF pareados: ALIF de nível único com OR 2,0 para TEV em 30 dias (multinível OR 2,7), sem diferença em sangramento (Silvestre et al., Journal of the American Academy of Orthopaedic Surgeons 2026).
+5. Foraminotomia profilática de C4-C5 na PCDF — 176 pacientes pareados: sem redução da paralisia de C5 nem melhora da recuperação (Miloh et al., The Spine Journal 2026).
+6. Mielopatia cervical degenerativa — recuperação neurológica (mJOA) e de qualidade de vida (SF-36 PCS) discordantes em 43% de 310 pacientes AO Spine CSM; efeito teto e OPLL como preditores (Bougadis et al., Spine 2026).
+7. ACDF aos 75 anos ou mais — paridade de PROMs em 2 anos após pareamento, 69 vs 69 (Rezner et al., Journal of Neurosurgery: Spine 2026); em contraponto, idade reduziu a chance de MCID no PROMIS após cirurgia cervical, OR 0,95 por ano (Joaquin et al., Global Spine Journal 2026).
+8. Robô remoto via 5G vs robô convencional — ECR com 120 fraturas toracolombares: 98,2% vs 98,0% de parafusos aceitáveis, violação facetária semelhante (Zhang et al., Spine 2026).
+9. IA multimodal genérica (Gemini 3 Pro) graduando estenose foraminal lombar — kappa 0,20, detectou só 18% das estenoses graves e subestimou de forma sistemática (Waheed et al., Global Spine Journal 2026).
+10. Migração para artrodese no Medicare — 1.618 cirurgiões 2013–2023: perfil predominantemente de artrodese subiu de 40,9% para 52,7%, associado a menor perda de reembolso real (Dinesh et al., The Spine Journal 2026).
+
+Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de coluna (semana de 08/11/2026 a 15/11/2026).]]></description>
+      <pubDate>Sun, 15 Nov 2026 12:22:36 -0300</pubDate>
+      <guid isPermaLink="false">2026-11-15-ep25</guid>
+      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-11-15-ep25.mp3" length="43088301" type="audio/mpeg"/>
+      <itunes:duration>44:52</itunes:duration>
+      <itunes:author>Igor Barreira</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Ep. 24 — VBQ depende de onde se mede, plexo anterior e déficit na via lateral, ALIF e lordose na transição lombossacra, gram-negativos em um terço das infecções (26/10/2026)</title>
       <description><![CDATA[Resumo: 10 artigos da semana em cirurgia de coluna.
 
@@ -304,30 +329,6 @@ Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais rece
       <itunes:episodeType>full</itunes:episodeType>
     </item>
 
-    <item>
-      <title>Ep. 13 — Multífido e Hematoma no TLIF, ACDF de 3 vs 4 Níveis, Artroplastia Cervical em 5 Anos, Osteotomia de 3 Colunas e Risco Neurológico (20/07/2026)</title>
-      <description><![CDATA[Resumo: 9 artigos da semana em cirurgia de coluna.
-
-1. Musculatura paraespinhal e hematoma epidural sintomático após TLIF — coorte retrospectiva de 105 pacientes (21 com hematoma sintomático): na multivariada, maior infiltração gordurosa do multífido (qualidade muscular, não tamanho), tempo de trombina prolongado e menor densidade óssea (esta protetora) foram preditores independentes — a ressonância pré-operatória pode dizer mais do que só onde colocar o parafuso, com a ressalva de apenas 21 eventos (Kong et al., Global Spine Journal, 2026).
-2. Vitamina D e bisfosfonato para otimizar a artrodese — revisão sistemática e meta-análise: vitamina D vs placebo aumentou a fusão em 1 ano (RR ~1,25) e melhorou ODI (MD ~7–8,5) e estabilidade postural; o bisfosfonato acelerou a fusão precoce (desfazendo o medo de sabotar a consolidação) e reduziu fratura vertebral — otimizar osso antes de fundir é parte do plano cirúrgico (Sadh et al., Spine, 2026).
-3. ACDF de 3 vs 4 níveis — revisão sistemática e meta-análise: ambos melhoram NDI, dor no braço e função neurológica, mas o 4º nível associou-se a mais tempo cirúrgico, mais sangramento, internação mais longa, menor taxa de fusão e menos melhora da dor axial cervical; complicações semelhantes, porém com intervalos de confiança largos — o nível a mais não sai de graça (Compton et al., Global Spine Journal, 2026).
-4. Artroplastia cervical em 2 níveis (disco PEEK-sobre-cerâmica), seguimento de 5 anos — coorte prospectiva de IDE do FDA, 181 pacientes: sucesso clínico composto de 86% aos 60 meses (vs 88% aos 24), movimento preservado (~9° por nível) e reoperação de nível adjacente de apenas 0,4% ao ano — a preservação de movimento se sustenta no médio prazo, no candidato certo (Bae et al., Spine, 2026).
-5. Laminoplastia (porta aberta/porta dupla) vs laminectomia seletiva na mielopatia cervical degenerativa — estudo multicêntrico prospectivo de 759 pacientes: recuperação neurológica, função e dor equivalentes entre as três técnicas aos 2 anos, com a laminectomia seletiva preservando significativamente mais amplitude de movimento — desde que o alinhamento (linha K) seja favorável (Nagoshi et al., Spine, 2026).
-6. Eventos adversos neurológicos após osteotomia de 3 colunas na deformidade do adulto — estudo prospectivo multicêntrico de 553 pacientes: eventos neurológicos mais frequentes com a osteotomia (23% vs 15%), tendo idade e tempo cirúrgico como preditores independentes, mas sem diferença no escore motor de membros inferiores em 6 semanas e 1 ano — o déficit agudo é mais comum, mas em geral recupera (Kim et al., Spine, 2026).
-7. Sobrevida na metástase espinhal de câncer de pulmão na era da imunoterapia — coorte de 997 pacientes (2017–2022): pulmão dobrou a mortalidade em 1 ano; cirurgia, albumina ≥3,5 e deambulação foram protetores, e a imunoterapia associou-se à sobrevida em 30 e 90 dias, mas não em 1 ano — nutrição e status funcional pesaram mais que a droga nova no horizonte anual (Striano et al., Spine, 2026).
-8. Impacto da ressonância nas fraturas toracolombares AO tipo A/B sem déficit — estudo retrospectivo de 158 pacientes: a RM detectou mais vértebras fraturadas, mudou a estratégia de tratamento em 12% (quase sempre escalando o cuidado por lesão do complexo ligamentar posterior) e reclassificou a fratura AO em 25% — na dúvida sobre o ligamento posterior, a RM não é luxo (Quilichini et al., Injury, 2026).
-9. Wearables vs desfechos relatados pelo paciente na cirurgia lombar — revisão sistemática e meta-análise: as métricas de vestíveis (passos, velocidade de marcha) correlacionaram-se fortemente com incapacidade (r ~0,65), moderadamente com dor (r ~0,46) e qualidade de vida — o objetivo rastreia função melhor que dor; o futuro do seguimento é híbrido (Slosar et al., The Spine Journal, 2026).
-
-Curadoria semanal do Instituto de Patologia da Coluna com o que há de mais recente e relevante na literatura de cirurgia de coluna (semana de 13/07/2026 a 20/07/2026).
-]]></description>
-      <pubDate>Mon, 20 Jul 2026 13:05:51 -0300</pubDate>
-      <guid isPermaLink="false">2026-07-20-ep13</guid>
-      <enclosure url="https://igorbarreira.github.io/spine-podcast-feed/episodes/2026-07-20-ep13.mp3" length="38466477" type="audio/mpeg"/>
-      <itunes:duration>40:04</itunes:duration>
-      <itunes:author>Igor Barreira</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
 
 
 
